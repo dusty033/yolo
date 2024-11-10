@@ -14,7 +14,7 @@
         </p>
     </div>
     <div style="margin-left: 20px;">
-        <img src="./1.png" alt="图片描述" width="150" />
+        <img src="./1.jpg" alt="图片描述" width="150" />
     </div>
 </div>
 
