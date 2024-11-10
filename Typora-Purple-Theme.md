@@ -17,16 +17,3 @@
         <img src="./1.jpg" alt="主题图片" width="200" style="border-radius: 5px;" />
     </div>
 </div>
-
----
-
-### 安装主题
-
-1. [下载](#) 本主题中的 `purple.css` 文件；
-2. 打开 Typora，点击“偏好设置” => “打开主题文件夹”按钮，将弹出 Typora 的主题文件夹；
-3. 将下载好的 `purple.css` 放到 Typora 的主题文件夹中；
-4. 关闭并重新打开 Typora，从菜单单中选择“主题” => “Purple” 即可。
-
----
-
-感谢：[typora-vue-theme](#)，[typora-theme-ursine](#)，[theigrams/My-typora-themes](#)，[typora-theme-autumnus](#)
